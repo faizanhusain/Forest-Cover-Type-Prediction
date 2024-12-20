@@ -42,6 +42,8 @@ The Forest Cover Type Prediction project aims to classify areas of forest land i
 
 ## Feature Importance
 ### Top Features:
+![download](https://github.com/user-attachments/assets/8d1f9910-e266-455b-85a1-efdc57631584)
+
 - Elevation: Most predictive feature, closely correlated with forest cover types.
 - Soil_Type: Played a critical role, with one-hot encoded categories revealing distinct importance.
 - Horizontal and Vertical Distance to Hydrology: Enhanced predictive power when combined as engineered features.
