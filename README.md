@@ -31,6 +31,8 @@ The Forest Cover Type Prediction project aims to classify areas of forest land i
 4) Multi-Layer Perceptron (MLP):
    - Balanced performance but required extensive hyperparameter tuning to avoid overfitting.
 ### Evaluation Metrics:
+![download](https://github.com/user-attachments/assets/16d3880a-6669-46ac-845f-bc4887244623)
+
 1) Random Forest Classifier:
    - Accuracy: 89%
    - Precision, Recall, F1-Score: Balanced across all classes, indicating consistent performance.
